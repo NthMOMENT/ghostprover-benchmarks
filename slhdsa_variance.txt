@@ -1,0 +1,35 @@
+=== SLH-DSA Run 1 ===
+Proving SLH-DSA verification in zkVM (composite STARK, SHA-256 accelerated)...
+  composite STARK:   11.92s
+  succinct compress: 4.99s
+  composite STARK  : 11.92s
+  succinct compress: 4.99s
+  total proving    : 16.91s
+=== SLH-DSA Run 2 ===
+Proving SLH-DSA verification in zkVM (composite STARK, SHA-256 accelerated)...
+  composite STARK:   11.82s
+  succinct compress: 4.81s
+  composite STARK  : 11.82s
+  succinct compress: 4.81s
+  total proving    : 16.63s
+=== SLH-DSA Run 3 ===
+Proving SLH-DSA verification in zkVM (composite STARK, SHA-256 accelerated)...
+  composite STARK:   11.78s
+  succinct compress: 4.86s
+  composite STARK  : 11.78s
+  succinct compress: 4.86s
+  total proving    : 16.64s
+=== SLH-DSA Run 4 ===
+Proving SLH-DSA verification in zkVM (composite STARK, SHA-256 accelerated)...
+  composite STARK:   11.15s
+  succinct compress: 4.49s
+  composite STARK  : 11.15s
+  succinct compress: 4.49s
+  total proving    : 15.64s
+=== SLH-DSA Run 5 ===
+Proving SLH-DSA verification in zkVM (composite STARK, SHA-256 accelerated)...
+  composite STARK:   11.36s
+  succinct compress: 4.48s
+  composite STARK  : 11.36s
+  succinct compress: 4.48s
+  total proving    : 15.85s

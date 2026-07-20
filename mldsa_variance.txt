@@ -1,0 +1,35 @@
+=== ML-DSA Run 1 ===
+Proving ML-DSA-44 verification in zkVM (composite STARK)...
+  composite STARK:   3.87s
+  succinct compress: 1.46s
+  composite STARK  : 3.87s
+  succinct compress: 1.46s
+  total proving    : 5.33s
+=== ML-DSA Run 2 ===
+Proving ML-DSA-44 verification in zkVM (composite STARK)...
+  composite STARK:   3.99s
+  succinct compress: 1.39s
+  composite STARK  : 3.99s
+  succinct compress: 1.39s
+  total proving    : 5.38s
+=== ML-DSA Run 3 ===
+Proving ML-DSA-44 verification in zkVM (composite STARK)...
+  composite STARK:   3.89s
+  succinct compress: 1.36s
+  composite STARK  : 3.89s
+  succinct compress: 1.36s
+  total proving    : 5.25s
+=== ML-DSA Run 4 ===
+Proving ML-DSA-44 verification in zkVM (composite STARK)...
+  composite STARK:   4.00s
+  succinct compress: 1.39s
+  composite STARK  : 4.00s
+  succinct compress: 1.39s
+  total proving    : 5.39s
+=== ML-DSA Run 5 ===
+Proving ML-DSA-44 verification in zkVM (composite STARK)...
+  composite STARK:   4.03s
+  succinct compress: 1.38s
+  composite STARK  : 4.03s
+  succinct compress: 1.38s
+  total proving    : 5.41s

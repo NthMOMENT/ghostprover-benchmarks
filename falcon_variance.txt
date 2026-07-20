@@ -1,0 +1,35 @@
+=== Falcon Run 1 ===
+Proving FN-DSA / Falcon verification in zkVM (composite STARK, NTT-heavy)...
+  composite STARK:   1.30s
+  succinct compress: 0.56s
+  composite STARK  : 1.30s
+  succinct compress: 0.56s
+  total proving    : 1.86s
+=== Falcon Run 2 ===
+Proving FN-DSA / Falcon verification in zkVM (composite STARK, NTT-heavy)...
+  composite STARK:   1.30s
+  succinct compress: 0.56s
+  composite STARK  : 1.30s
+  succinct compress: 0.56s
+  total proving    : 1.86s
+=== Falcon Run 3 ===
+Proving FN-DSA / Falcon verification in zkVM (composite STARK, NTT-heavy)...
+  composite STARK:   1.37s
+  succinct compress: 0.63s
+  composite STARK  : 1.37s
+  succinct compress: 0.63s
+  total proving    : 1.99s
+=== Falcon Run 4 ===
+Proving FN-DSA / Falcon verification in zkVM (composite STARK, NTT-heavy)...
+  composite STARK:   1.35s
+  succinct compress: 0.57s
+  composite STARK  : 1.35s
+  succinct compress: 0.57s
+  total proving    : 1.91s
+=== Falcon Run 5 ===
+Proving FN-DSA / Falcon verification in zkVM (composite STARK, NTT-heavy)...
+  composite STARK:   1.36s
+  succinct compress: 0.57s
+  composite STARK  : 1.36s
+  succinct compress: 0.57s
+  total proving    : 1.93s
