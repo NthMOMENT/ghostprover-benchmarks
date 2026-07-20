@@ -40,7 +40,7 @@ NIST post-quantum signature schemes verified inside RISC Zero zkVM.
 Source: [KaspaKii/Portrait](https://github.com/KaspaKii/Portrait)
 Toccata KIP-16 tag-0x21 ZK opcode research.
 
-### [initial-run-july-16](./kaspa-pq-zk/initial-run-july-16/)
+### [Initial-run-july-16](https://github.com/NthMOMENT/kaspa-pq-bench-results)
 
 First GPU proving run. RISC Zero 3.0.5.
 
