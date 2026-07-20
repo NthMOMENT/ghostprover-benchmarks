@@ -13,9 +13,9 @@ real receipts, raw logs attached. No Bonsai, no emulation.
 
 | Program | Client | Date | Hardware | Backend | Total (mean) | Repo |
 |---------|--------|------|----------|---------|-------------|------|
-| SLH-DSA-128s (FIPS-205) | [Kaspa Kii](https://github.com/KaspaKii/Portrait) | Jul 16, 2026 | RTX 4090 · CUDA 12.8 | RISC Zero 3.0.5 | 16.22s | [kaspa-pq-zk/initial-run-july-16](./kaspa-pq-zk/initial-run-july-16/) |
-| FN-DSA Falcon-512 (FIPS-206) | [Kaspa Kii](https://github.com/KaspaKii/Portrait) | Jul 16, 2026 | RTX 4090 · CUDA 12.8 | RISC Zero 3.0.5 | 2.47s | [kaspa-pq-zk/initial-run-july-16](./kaspa-pq-zk/initial-run-july-16/) |
-| ML-DSA-44 (FIPS-204) | [Kaspa Kii](https://github.com/KaspaKii/Portrait) | Jul 16, 2026 | RTX 4090 · CUDA 12.8 | RISC Zero 3.0.5 | 5.89s | [kaspa-pq-zk/initial-run-july-16](./kaspa-pq-zk/initial-run-july-16/) |
+| SLH-DSA-128s (FIPS-205) | [Kaspa Kii](https://github.com/KaspaKii/Portrait) | Jul 16, 2026 | RTX 4090 · CUDA 12.8 | RISC Zero 3.0.5 | 16.22s | [kaspa-pq-bench-results](https://github.com/NthMOMENT/kaspa-pq-bench-results) |
+| FN-DSA Falcon-512 (FIPS-206) | [Kaspa Kii](https://github.com/KaspaKii/Portrait) | Jul 16, 2026 | RTX 4090 · CUDA 12.8 | RISC Zero 3.0.5 | 2.47s | [kaspa-pq-bench-results](https://github.com/NthMOMENT/kaspa-pq-bench-results) |
+| ML-DSA-44 (FIPS-204) | [Kaspa Kii](https://github.com/KaspaKii/Portrait) | Jul 16, 2026 | RTX 4090 · CUDA 12.8 | RISC Zero 3.0.5 | 5.89s | [kaspa-pq-bench-results](https://github.com/NthMOMENT/kaspa-pq-bench-results) |
 | SLH-DSA-128s (FIPS-205) · 5-run variance | [Kaspa Kii](https://github.com/KaspaKii/Portrait) | Jul 20, 2026 | RTX 4090 · CUDA 12.8 | RISC Zero 3.0.6 | 16.33s ± 0.55s | [kaspa-pq-zk/variance-run-july-20](./kaspa-pq-zk/variance-run-july-20/) |
 | FN-DSA Falcon-512 (FIPS-206) · 5-run variance | [Kaspa Kii](https://github.com/KaspaKii/Portrait) | Jul 20, 2026 | RTX 4090 · CUDA 12.8 | RISC Zero 3.0.6 | 1.91s ± 0.05s | [kaspa-pq-zk/variance-run-july-20](./kaspa-pq-zk/variance-run-july-20/) |
 | ML-DSA-44 (FIPS-204) · 5-run variance | [Kaspa Kii](https://github.com/KaspaKii/Portrait) | Jul 20, 2026 | RTX 4090 · CUDA 12.8 | RISC Zero 3.0.6 | 5.35s ± 0.06s | [kaspa-pq-zk/variance-run-july-20](./kaspa-pq-zk/variance-run-july-20/) |
