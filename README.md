@@ -1,4 +1,4 @@
-# GhostProver — Public Benchmark Ledger
+# GhostProver Public Benchmark Ledger
 
 Verified GPU proving benchmarks for ZK programs. Every run is real hardware,
 real receipts, raw logs attached. No Bonsai, no emulation.
