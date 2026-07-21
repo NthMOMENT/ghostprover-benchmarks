@@ -1,0 +1,11 @@
+{
+  "circuit": "transaction2 (Privacy Cash Groth16)",
+  "framework": "snarkjs groth16 + bn128",
+  "prove_time_ms": 1098,
+  "total_time_ms": 1151,
+  "proof_valid": true,
+  "gpu": "NVIDIA GeForce RTX 4090",
+  "cuda": "12.8.1",
+  "timestamp": "2026-07-21T14:11:03.348Z",
+  "note": "Proved using Privacy Cash official zkey and wasm artifacts"
+}
